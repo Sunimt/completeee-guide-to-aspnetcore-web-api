@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zKbZMfj6EhH7/o4bwKL4G7fzoIYtZ45+6dihx2iO3g/kcqT/m6ZqiKfR/yF0Q/nCmBdGNq8srP9yMH/J+ER2Vw==",
+  "success": true,
+  "projectFilePath": "D:\\Visual\\libreria3_DSMT\\libreria3_DSMT\\libreria3_DSMT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sunim\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\sunim\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\sunim\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\sunim\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\sunim\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\sunim\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
